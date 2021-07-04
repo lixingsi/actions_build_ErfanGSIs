@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22.K.51_OTA_051_all_2105262251_6fed6a93c6c54103.zip
-  ROM_NAME: HydrogenOS
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1851_11_OTA_1130_all_iuygSyEV1LmI.ozip
+  ROM_NAME: Color
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
