@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22.K.51_OTA_051_all_2105262251_6fed6a93c6c54103.zip
-  ROM_NAME: H2os
+  ROM_NAME: HydrogenOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
