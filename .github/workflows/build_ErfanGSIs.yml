@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/Z3pNWkkyNkJIRHFCa3ViMnh3YzhuQmh4TzhmREJqcnlDV0w4SjAxWCs2cGhMZGgrd2xWN2tDalNIRjdMRmVIR0hQcTQxaEVaelMzUnZTR1pGS1hoc1RxQ2NlQ2pnWEYvQU9OL2dXOG0vb1E9/PixelExperience_fajita-10.0-20200612-0722-OFFICIAL.zip
+  ROM_URL: https://get.pixelexperience.org/UloyTW1CZnhSQjE2NlRIUGNTQmhwdFRNQVk3a1BlMFNMU1FKTlZybUdTSndubGZqcjhZUVRKM1I4RHlYNGx6amlpbFBUR0x4Z2Y5OGhGVDRIVzE5OTlIMUM3bERCYXlkNzBNb0ZodlhXY0U9/PixelExperience_cepheus-10.0-20200816-1745-OFFICIAL.zip
   ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
