@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.1.0.QEACNXM/miui_MI8_V12.5.1.0.QEACNXM_8e708da17d_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://get.pixelexperience.org/Z3pNWkkyNkJIRHFCa3ViMnh3YzhuQmh4TzhmREJqcnlDV0w4SjAxWCs2cGhMZGgrd2xWN2tDalNIRjdMRmVIR0hQcTQxaEVaelMzUnZTR1pGS1hoc1RxQ2NlQ2pnWEYvQU9OL2dXOG0vb1E9/PixelExperience_fajita-10.0-20200612-0722-OFFICIAL.zip
+  ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
