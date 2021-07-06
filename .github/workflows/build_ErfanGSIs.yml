@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/d0l2NEVoZmVYZTY1WEhwSkVTNG91U05YQ0RvNTdHUGRiRWZmOW9CZ0drbmJDZUZTNjJCdFR4WGtkZmtKL3FRS0c0aU0zZHV5YVR6c09oL3JiVExRRmd6YnpKNXdDeWVIaVVwblpPRTc5ZWs9/PixelExperience_guacamoleb-10.0-20200930-1526-OFFICIAL.zip
-  ROM_NAME: Pixel
+  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/null_20210611185502/PCNM00_11_OTA_1290_all_POfc2IoO7sfw.ozipR6c09oL3JiVExRRmd6YnpKNXdDeWVIaVVwblpPRTc5ZWs9/PixelExperience_guacamoleb-10.0-20200930-1526-OFFICIAL.zip
+  ROM_NAME: Color
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
