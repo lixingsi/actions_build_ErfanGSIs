@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/null_20210611185502/PCNM00_11_OTA_1290_all_POfc2IoO7sfw.ozipR6c09oL3JiVExRRmd6YnpKNXdDeWVIaVVwblpPRTc5ZWs9/PixelExperience_guacamoleb-10.0-20200930-1526-OFFICIAL.zip
-  ROM_NAME: Color
+  ROM_URL: https://q11cf69b.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16T/9.21.4.29/cn_daily/20210429003511/b1756971/update.zip
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
