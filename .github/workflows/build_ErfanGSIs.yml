@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://api.aospextended.com/download/lavender/r/51ec33e251453d4b1ba96969b5ef7727a16a646aa1d81e3c2669695030f65c501d52f6ec53d8ac7fb1ec2d0543365444a052df38f0
-  ROM_NAME: Generic
+  ROM_URL: http://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_30f382738dfe4ae0.zip
+  ROM_NAME: OxygenOS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
