@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gemmei.ftp.acc.umu.se/mirror/lineageos/full/lavender/20210727/lineage-18.1-20210727-nightly-lavender-signed.zip
+  ROM_URL: https://download.pixelexperience.org/changelog/violet/PixelExperience_violet-11.0-20210716-0247-OFFICIAL.zip
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
