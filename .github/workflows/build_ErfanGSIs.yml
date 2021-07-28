@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.pixelexperience.org/changelog/violet/PixelExperience_violet-11.0-20210716-0247-OFFICIAL.zip
+  ROM_URL: https://api.aospextended.com/download/lavender/r/51ec33e251453d4b1ba96969b5ef7727a16a646aa1d81e3c2669695030f65c501d52f6ec53d8ac7fb1ec2d0543365444a052df38f0
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
