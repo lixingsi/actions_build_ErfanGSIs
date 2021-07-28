@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.QFHCNXM/miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://qo1nw62b.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16T/9.21.4.29/cn_daily/20210429003511/b1756971/update.zip
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
