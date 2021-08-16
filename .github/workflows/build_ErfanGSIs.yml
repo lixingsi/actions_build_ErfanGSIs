@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34.K.51_OTA_051_all_2105262300_30f382738dfe4ae0.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://bigota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
