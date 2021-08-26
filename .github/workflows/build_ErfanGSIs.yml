@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://download.meizu.com/Firmware/Flyme/16T/9.21.8.24/cn_beta/20210824003508/411fb7e2/update.zip
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
